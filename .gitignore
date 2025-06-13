@@ -24,4 +24,5 @@ __pycache__
 *.csv
 *.json
 *.pth
-
+*.pt
+*.safetensors
