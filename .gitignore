@@ -27,3 +27,4 @@ __pycache__
 *.pt
 *.safetensors
 .env
+faiss_index
